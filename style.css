@@ -105,7 +105,7 @@ button:nth-child(1){
 
 button:nth-child(2){
     background: #cdc0c0;
-    color: #010a21;
+    color: #000001;
     margin-left: 2rem;
 }
 button:nth-child(1):hover{
@@ -167,5 +167,4 @@ button:nth-child(2):hover{
     transform: scaleX(1);
     transform-origin: bottom left;
 }
-hi 
 }
